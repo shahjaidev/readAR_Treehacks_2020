@@ -9,6 +9,7 @@ Word Sense Disambiguation is the problem of determining which "sense" (meaning) 
 
 > Wiedemann, G., Remus, S., Chawla, A., Biemann, C. (2019): [Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings. Proceedings of KONVENS 2019](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2019-wiedemannetal-bert-sense.pdf), Erlangen, Germany.
 
+[!image.png]
 ### Running the example
 The entire working model can be found as a Docker image. You can download it and run it as follows:
 
