@@ -28,6 +28,8 @@ Run `python server.py` to start a Flask server on `localhost:5000`. Hit it with 
 * img-pipeline: `140.238.147.73:8080/api`
 * quiz-generation: `140.238.147.73:8081/api?q=some+query`
 
+Word Sense Disambiguation
+![WSD](BERT.png)
 ## Examples
 ### 1 -- physics definition of work
 ```bash
