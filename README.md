@@ -1,4 +1,6 @@
-# readAR_Treehacks_2020
+#Stanford TreeHacks 2020
+
+Built with @jackyzha0, @SaiG18 and @SophieMBerger
 
 # readAR - backend
 [DevPost](https://devpost.com/software/readar-twh41m)
