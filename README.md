@@ -1,4 +1,4 @@
-#Stanford TreeHacks 2020
+# Stanford TreeHacks 2020
 
 Built with @jackyzha0, @SaiG18 and @SophieMBerger
 
